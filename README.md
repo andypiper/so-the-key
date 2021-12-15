@@ -4,6 +4,10 @@
 
 Stack Overflow made an [April Fool joke](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/) about a 3-key keypad just for copy/paste. And then [built one](https://drop.com/buy/stack-overflow-the-key-macropad#overview). So I had to have one.
 
+Oh, I Tweeted about it.
+
+https://twitter.com/andypiper/status/1471189409332670464?s=21
+
 ![The Key](img/IMG_4629.jpeg)
 
 ## Links
@@ -11,6 +15,8 @@ Stack Overflow made an [April Fool joke](https://stackoverflow.blog/2021/03/31/t
 - [Original joke](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/)
 - [The Key](https://drop.com/buy/stack-overflow-the-key-macropad#overview) on Drop
 - [Configuring The Key](https://drop.com/talk/93641/how-to-configure-stack-overflow-the-key-macropad) on Drop
+
+The configuration steps documented above work fine (NB my Key came configured as Ctrl-C-V, but I predominently - not exclusively - use a Mac, and prefer Cmd-C-V). However, the site suggested (Keyboard Firmware Builder) is end-of-life, so ideally there would be better QMK support / integration with the up-to-date tooling.
 
 ## Resources
 
@@ -28,4 +34,4 @@ Stack Overflow made an [April Fool joke](https://stackoverflow.blog/2021/03/31/t
 
 Find [me](https://stackoverflow.com/users/262478/andy-piper) on Stack Overflow!
 
-Send me PRs with alternative configurations? I'm still using mine as (macOS) Cmd-C-V layout, single layer. More layers! Macros! Lighting!
+Send me PRs with alternative configurations? I'm still using mine as Cmd-C-V layout, single layer. More layers! Macros! Lighting!
