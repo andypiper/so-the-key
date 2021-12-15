@@ -16,7 +16,7 @@ Stack Overflow made an [April Fool joke](https://stackoverflow.blog/2021/03/31/t
 
 - 📁 `firmwares` - contains `.hex` files to upload using [QMK Toolbox](https://github.com/qmk/qmk_toolbox) or CLI
 - 📁 `kbfirmware` - `.json` configuration for the (deprecated) [Keyboard Firmware Builder](https://kbfirmware.com/) site
-- 📁 `keyboard-layout-editor` - files from the [Keyboard Layout Editor](https://keyboard-layout-editor.com) site. The `.json` layout can be imported into the KFB site.
+- 📁 `keyboard-layout-editor` - files from the [Keyboard Layout Editor](http://keyboard-layout-editor.com) site. The `.json` layout can be imported into the KFB site. Also in a [Gist](https://gist.github.com/andypiper/1b3f5e690d8311475f31bd90f3b29d3c) that can be [loaded directly](http://www.keyboard-layout-editor.com/#/gists/1b3f5e690d8311475f31bd90f3b29d3c).
 
 ![Layout](keyboard-layout-editor/stack-overflow-the-key.jpg)
 
