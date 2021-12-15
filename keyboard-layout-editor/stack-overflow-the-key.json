@@ -1,0 +1,27 @@
+[
+  {
+    "backcolor": "#000000",
+    "name": "Stack Overflow The Key",
+    "author": "Andy Piper",
+    "switchMount": "cherry",
+    "switchBrand": "kailh",
+    "switchType": "PG151101D01/D15",
+    "pcb": true,
+    "css": ""
+  },
+  [
+    {
+      "c": "#edf5c9",
+      "t": "#eb8610",
+      "a": 7,
+      "f": 8
+    },
+    "<i class='fa fa-stack-overflow'></i>",
+    {
+      "t": "#000000",
+      "f": 9
+    },
+    "C",
+    "V"
+  ]
+]
