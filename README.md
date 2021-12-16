@@ -29,6 +29,7 @@ The configuration steps documented above work fine (NB my Key came configured as
 ### TODO
 
 - Create proper firmware for [qmk_firmware](https://github.com/qmk/qmk_firmware/) tooling and Configurator, since the `.json` files here are not compatible.
+  - there is an [existing patch](https://github.com/frap129/qmk_firmware/commit/663c42b8d04d6e60b8bc80d14c77a31562ae63e4) which adds this, but it is not merged upstream
 
 ### What else?
 
